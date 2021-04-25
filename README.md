@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Matteo Gobbo.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Logo" width="50" height="50"/>
+
 
 <!--
 **matteo-gobbo/matteo-gobbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
