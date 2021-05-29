@@ -1,28 +1,20 @@
-### Hi there 👋, I'm Matteo Gobbo.
+## Hi everyone 👋
 
+My name is Matteo and I'm freelance software developer from Italy. <br>
+Actually I'm focusing almost on frontend. In my main job I'm using two of the most popular frameworks in this field: Angular and React (with Next.js). <br>
+Recently I had the chance to work on an MVP for a new company as fullstack developer using Node.js. <br>
 
----
- 
-Toolbox 
- 
----
+On my Github profile I'll share side-projects and exercises. The latter are small repositories I use to try new things or fully understand concepts I'm studying.<br>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Logo" width="50" height="50"/>
+You can find me on:
+<br>
+<a href="https://twitter.com/matteogobbo_" target="_blank">
+  <img align="left" alt="Matteo Gobbo | Twitter" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
+</a>
+<a href="https://www.linkedin.com/in/matteo-gobbo/" target="_blank">
+  <img align="left" alt="Matteo Gobbo | LinkedIn" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+</a>
 
-<!--
-**matteo-gobbo/matteo-gobbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+Do not hesitate to contact me also at <a href="mailto:info@matteogobbo.it">info@matteogobbo.it</a>
