@@ -1,9 +1,9 @@
 ## Hi everyone 👋
 
-Hi, nice to meet you!
-I"m a freelance web developer based in Pavia, Italy.
-I"ve started my journey few months ago and got the chance to work on different digital products for both business and consumers.
-I"m currently collaborating with Fuoricittà and Hipster Studio. <br>
+Nice to meet you!
+My name is Matteo and I'm a freelance web developer based in Pavia, Italy.
+I've started my journey few months ago and got the chance to work on different digital products for both business and consumers.
+I'm currently collaborating with Fuoricittà and Hipster Studio. <br>
 
 You can find me on:
 <br>
