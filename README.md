@@ -1,10 +1,9 @@
 ## Hi everyone 👋
 
-My name is Matteo and I'm freelance software developer from Italy. <br>
-Actually I'm focusing almost on frontend. In my main job I'm using two of the most popular frameworks in this field: Angular and React (with Next.js). <br>
-Recently I had the chance to work on an MVP for a new company as fullstack developer using Node.js. <br>
-
-On my Github I'll share side-projects and exercises. The latter are small repositories I use to try new things or fully understand concepts I'm studying.<br>
+Hi, nice to meet you!
+I"m a freelance web developer based in Pavia, Italy.
+I"ve started my journey few months ago and got the chance to work on different digital products for both business and consumers.
+I"m currently collaborating with Fuoricittà and Hipster Studio. <br>
 
 You can find me on:
 <br>
