@@ -3,10 +3,10 @@
 My name is Matteo. 
 
 I've worked as a freelancer for almost 2 years.
-During this time I`ve got the chance to work on multiple digital products aimed at business and consumers, covering a variety of different domains.
+During this time I've got the chance to work on multiple digital products aimed at business and consumers, covering a variety of different domains.
 Main collaborations were with <a href="https://www.fuoricitta.it/">Fuoricittà</a> and <a href="https://hipsterstudio.it/">Hipster Studio</a>.
 
-Actually I`m front-end developer at <a href="https://www.conio.com/">Conio Inc.</a>
+Actually I'm front-end developer at <a href="https://www.conio.com/">Conio Inc.</a>
 
 You can find me on:
 
