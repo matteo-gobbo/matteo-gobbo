@@ -1,11 +1,15 @@
 ## Hi everyone 👋
 
-Nice to meet you!
-My name is Matteo and I'm a freelance web developer based in Pavia, Italy.
-I've started my journey few months ago and got the chance to work on different digital products for both business and consumers.
-I'm currently collaborating with <a href="https://www.fuoricitta.it/">Fuoricittà</a> and <a href="https://hipsterstudio.it/">Hipster Studio</a>. <br>
+My name is Matteo. 
+
+I've worked as a freelancer for almost 2 years.
+During this time I`ve got the chance to work on multiple digital products aimed at business and consumers, covering a variety of different domains.
+Main collaborations were with <a href="https://www.fuoricitta.it/">Fuoricittà</a> and <a href="https://hipsterstudio.it/">Hipster Studio</a>.
+
+Actually I`m front-end developer at <a href="https://www.conio.com/">Conio Inc.</a>
 
 You can find me on:
+
 <br>
 <a href="https://twitter.com/matteogobbo_" target="_blank">
   <img align="left" alt="Matteo Gobbo | Twitter" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
